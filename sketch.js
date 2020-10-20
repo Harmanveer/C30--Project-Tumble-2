@@ -9,7 +9,7 @@ var polygon;
 
 function preload()
 {
-   polygonImg = loadImage("sprites/polygon.png");
+   polygonImg = loadImage("polygon.png");
 }
 
 function setup() 
